@@ -1,4 +1,3 @@
-# Bate-papo com Arduíno
+# Arduínos Conversam
 
 Esse projeto simula uma rede de computadores usando arduínos.
-Cada arduíno é um 
